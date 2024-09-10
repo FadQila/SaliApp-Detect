@@ -2,5 +2,5 @@ fastapi
 uvicorn
 pydantic
 python-dotenv
-tensorflow 
+tensorflow==2.10.0 
 pillow
